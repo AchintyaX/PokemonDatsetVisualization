@@ -2,6 +2,7 @@
 This is data visualization of the pokemon dataset I found, I have used data visualization to find trends in the pokemons 
 after conducting some analysis on the dataset it was found that chances of winning of a pokemon over the other are not totally based upon the total stats, 
 there fore to study it a prediction system was developed and accuracy was taken in account as the metric 
+The predictions reached an accuracy of 96%
 
 # Dependencies
 1. jupyter notebook
